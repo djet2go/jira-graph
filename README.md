@@ -80,5 +80,12 @@ host = "https://example.atlassian.net"
 - [Graphviz](https://graphviz.org/download/)
 - [PHP Version 7.3](https://www.php.net/downloads.php)
 
+# Скрины
+
+![](https://github.com/djet2go/jira-graph/raw/main/jira-graph-example2.png)
+
+***
+
+![](https://github.com/djet2go/jira-graph/raw/main/jira-graph-example.png)
 
 [^1]: [Jira Query Language](https://www.atlassian.com/ru/software/jira/guides/expand-jira/jql)
